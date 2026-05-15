@@ -117,7 +117,7 @@
 
 
 <!-- Tabel Daftar Ibu Hamil -->
-<h5 class="fw-bold mb-3">Daftar Ibu Hamil</h5>
+<h5 class="fw-bold mb-3">Daftar Pasien Ibu Hamil</h5>
 <table class="table table-bordered table-striped shadow">
     <thead style="background-color:#f875aa; color:white;">
         <tr>
