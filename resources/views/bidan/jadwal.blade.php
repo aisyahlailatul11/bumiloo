@@ -89,7 +89,7 @@
     <div class="card shadow-sm border-0 mb-2" style="background-color:#e9d8fd;">
         <div class="card-body">
             <strong>09.30 - 11.00 WIB</strong> — Persalinan (Bia)
-            <span class="badge bg-purple ms-2">Konfirmasi</span>
+            <span class="badge bg-warning ms-2">Konfirmasi</span>
         </div>
     </div>
 
